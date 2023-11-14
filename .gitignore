@@ -1,6 +1,9 @@
 HELP.md
+mvnw
+mvnw.cmd
+.gitignore
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!.mvn
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -31,3 +34,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
